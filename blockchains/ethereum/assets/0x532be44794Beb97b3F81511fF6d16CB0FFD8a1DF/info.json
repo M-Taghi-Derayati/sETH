@@ -1,16 +1,24 @@
 {
-  "name": "Synth sETH",
-  "symbol": "sETH",
-  "type": "ERC20",
-  "decimals": 18,
-  "description": "Community token for educational DeFi purposes.",
-  "website": "https://mehditk-hash.github.io/research-synthseth",
-  "explorer": "https://etherscan.io/token/0x532be44794Beb97b3F81511Ff6d16CB0FFD8A1DF",
-  "status": "active",
-  "id": "0x532be44794Beb97b3F81511Ff6d16CB0FFD8A1DF",
-  "tags": ["defi"],
-  "links": [
-    {"name":"twitter","url":"https://x.com/synth_seth"},
-    {"name":"telegram","url":"https://t.me/synth_seth"}
-  ]
+    "name": "Synth ETH Community",
+    "type": "ERC20",
+    "symbol": "sETH",
+    "decimals": 18,
+    "website": "https://synseth.co/",
+    "description": "Synth ETH Community is an independent ERC-20 token project on Ethereum, with no affiliation with Synthetix or other protocols. It is designed for an evolving DeFi ecosystem, with planned utilities including liquidity, governance, incentives, and future synthetic-asset functionality.",
+    "explorer": "https://etherscan.io/token/0x532be44794Beb97b3F81511Ff6d16CB0FFD8A1DF",
+    "status": "active",
+    "id": "0x532be44794Beb97b3F81511Ff6d16CB0FFD8A1DF",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/synth_seth"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/TnHskRFDU3"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
 }
